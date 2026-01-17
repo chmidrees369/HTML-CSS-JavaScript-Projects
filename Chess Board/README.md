@@ -6,7 +6,7 @@ The **Chess Board HTML Project** is a beginner-friendly web project that demonst
 
 This project visually replicates a real chessboard with alternating black and white squares and a clean, centered layout.
 
----
+
 
 ## ✨ Features
 
@@ -18,7 +18,7 @@ This project visually replicates a real chessboard with alternating black and wh
 - ✅ Works on all modern web browsers  
 - ✅ Easy to understand and modify
 
----
+
 
 ## 🚀 How to Use
 
@@ -27,7 +27,7 @@ This project visually replicates a real chessboard with alternating black and wh
 3. The chessboard will appear centered on the page  
 4. No additional setup or dependencies required
 
----
+
 
 ## 📂 Files Included
 
@@ -48,13 +48,12 @@ You can improve or modify this project by:
 - 🔹 Enhancing with CSS for better UI  
 - 🔹 Converting table layout to CSS Grid (advanced)
 
----
+
 
 ## 🖼️ Preview
 
 ![Project Screenshot](https://github.com/user-attachments/assets/503c71c4-cf30-475e-9b08-afd6d0b62183)
 
----
 
 ## 📌 Learning Outcomes
 
@@ -66,13 +65,13 @@ By completing this project, you will learn:
 - Page alignment techniques  
 - Writing clean project documentation
 
----
+
 
 ## 📜 License
 
 This project is open-source and free to use for **learning and educational purposes**.
 
----
+
 
 ## 👨‍💻 Author
 
